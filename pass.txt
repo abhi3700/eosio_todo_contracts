@@ -1,0 +1,30 @@
+Wallet (locally)
+================
+name: eost
+password: "PW5JcGyeJ2ufxKrVRzLkorfGA4yFm2xPfndau9cheVXdaKPWWSuzb"
+command: `cleos wallet unlock -n eost --password PW5JcGyeJ2ufxKrVRzLkorfGA4yFm2xPfndau9cheVXdaKPWWSuzb`
+########################################################################
+Jungle Testnet
+************************************************************************************
+
+TODO Contracts
+====================
+eosiotodo111
+Private key: 5K6f7BEQknzsbNjqCwb1YiqwEpBmYXfMF7mY4KKSDZkMBNxLaHf
+Public key: EOS8d4ZRDNwpnxdXsAnSE6vUuXGqjM5851q3PichDjYSAXsbih25K
+-------------------------------------------------------------
+
+TODO Users
+==================
+todousr11111
+Private key: 5JSrCpfonddkCtozHSJA9UPxmka8iusmrezDXNUBFfNeTLexiiY
+Public key: EOS85a1RW1zAoJee5hRtvQ1mtcep96cDyeGTRsUf6RvgGuQXHFn7G
+-------------------------------------------------------------
+todousr11112
+Private key: 5KGxHmpyqVNpYFekvAJPDZTF7zHBwBJcnEKpBmMiZphPim3VqwQ
+Public key: EOS6vrvNmyu5r4U2nqpLFgqbfK7f877qS4BWJ5osnZX1McabUo7xJ
+-------------------------------------------------------------
+todousr11113
+Private key: 5JPDK6nSZ8ppPaWnh2oELRhzvyDwQ21U6HyqzW2NcwxmPtWQHt1
+Public key: EOS6ut3NRCPUZmfuhHTY9P3pZdERJMYeg69WSWt8PKtFfGUQxEpPX
+-------------------------------------------------------------
